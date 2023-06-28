@@ -36,4 +36,4 @@ python3 -m api.v1.app
 ### Author of The Project
 
 - [Nftalem Arega](https://github.com/robelandro) 
-and other contributors
+and other my fellow collage contributors
